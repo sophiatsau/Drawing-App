@@ -40,3 +40,7 @@
         * score = 10 - # guesses
 
     * Draw your own character
+
+# Structure
+ - Golang backend
+ - React frontend

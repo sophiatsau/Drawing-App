@@ -1,3 +1,4 @@
+console.log("hello, the script is here")
 
 const colorInput = document.getElementById('color');
 const weight = document.getElementById('weight');
